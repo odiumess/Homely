@@ -1,0 +1,5 @@
+@import url('<link href="https://fonts.googleapis.com/css2?family=Cinzel&display=swap" rel="stylesheet" />
+');
+body {
+    background: url('https://cdn.pixabay.com/photo/2018/02/28/22/44/clouds-3189322_960_720.jpg') top center fixed; background-size: 100%; font-family: Raleway; color: black;
+  }
